@@ -7,6 +7,8 @@ The project has been developed using Java SWING and visualizes sorts including B
 
 Here are a few screenshots of the GUI:
 
-![](Images/screen 1.png)
-![](Images/screen 2.png)
-![](Images/screen 3.png)
+![](https://github.com/ananya2005/Sorting-Visualizer/blob/master/Images/screen%201.PNG)
+
+![](https://github.com/ananya2005/Sorting-Visualizer/blob/master/Images/screen%202.PNG)
+
+![](https://github.com/ananya2005/Sorting-Visualizer/blob/master/Images/screen%203.PNG)
